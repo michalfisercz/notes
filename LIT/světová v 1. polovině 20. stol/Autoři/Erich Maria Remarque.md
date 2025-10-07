@@ -1,0 +1,18 @@
+- významný spisovatel, protinacisticky orientovaný
+- nominován na Nobelovu cenu míru
+- jako 18tetý odešel do 1. sv. v., po několika týdnech zraněn, na frontu se již nevrátil
+- po návratu domů neschopen včlenit se do společnosti (Lost Generation)
+- chtěl se živit jako malíř či hudebník
+- pracoval jako učitel, automobilový závodník, obchodní cestující či redaktor časopisů
+- po nástupu nacismu
+	- jako autor zakázán, zbaven německého občanství
+	- jeho knihy páleny popis války se režimu v té době nehodil, byl označen za žida, který ve válce nikdy nebyl
+	- emigroval do USA
+- po válce střídavě v USA a Švýcarsku, do Německa se nikdy nevrátil
+# dílo
+- věnuje se ztracené generaci
+- časté téma automobilové závody
+- antifašistické
+- úspěch mu přineslo vydání **Na západní frontě klid**
+	- celosvětově známé, o rok později zfilmováno
+	- z 1. sv. v., o generaci lidí, kterým válka zničila život, i když ji přežili

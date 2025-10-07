@@ -1,0 +1,7 @@
+-  nové zachycení trojrozměrné dimenze
+- zkoumání předmětu z různých úhlů, rušení linií, rozbíjení na nejmenší částečky
+- literatura
+	- slovo = stavební prvek, z nějž lze postavit novou skutečnost
+	- volně plynoucí představy
+	- útržky, slova vytržena z kontextu, spojována s jinými
+	- rozbíjí se tradiční formy

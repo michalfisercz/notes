@@ -1,0 +1,8 @@
+- narozen v německé rodině na rakouské straně Šumavy
+- dětství strávil v Pošumaví - Sušice, Kašperské Hory, Žichovice
+- studía na gymnáziu v Klatovech a v Písku, na medícíně ve Vídni - nedokončil ji
+- učil v Plzní francouzštinu na německé reálce
+- psal německy i česky
+- psal hlavně o Šumavě a Pošumaví, o sklářích, dřevařich, vorařich - z vlastních zážitků a zkušeností
+- krása přírody a osamělost zdejších lidí
+- romány Ze světa lesních samot, V ráji šumavském, Skláři

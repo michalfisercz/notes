@@ -1,0 +1,10 @@
+- 1805-1875
+- dánský spisovatel, proslavil se pohádkami
+- život se všemi jeho krásami i problémy, pohádky laskavé i kruté, melancholické, některé odráží jeho neradostné dětství
+- díla
+	-  Císařovy nové šaty
+	-  Statečný cínový vojáček
+	-  Sněhová královna
+	-  Křesadlo
+	-  Ošklivé káčátko
+	-  Děvčátko se sirkami

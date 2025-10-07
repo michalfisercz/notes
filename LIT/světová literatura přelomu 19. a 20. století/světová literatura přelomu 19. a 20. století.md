@@ -1,0 +1,16 @@
+- vývoj vědy a techniky
+- Albert Einstein
+- odklon od boha - atheismus
+- architektura
+	- secese
+- hudba
+	- Claude Debussy
+- umělecké směry
+	- secese
+	- impresionismus
+	- symbolismus
+	- dekadence
+- Prokletí básníci
+	- Charles Baudelaire
+		- Bohémský život
+		- květy zla - lyrická básnická sbírka

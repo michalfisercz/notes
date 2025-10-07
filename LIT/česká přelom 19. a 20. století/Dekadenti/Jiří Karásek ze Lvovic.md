@@ -1,0 +1,6 @@
+- básník, spisovatel, kritik, představitel 
+- dekadence, v soukromí ale tichý, uzavřený 
+- nedokončil studia teologie, poštovní úředník 
+- zakladatel časopisu Moderní revue (česká a francouzská dekadentní tvorba - provokace, pohrdání konzervativní společností, obhajoba sexuálních tabu)
+- ### sbírka Sodoma 
+	- sex, homosexualita, také antika (otevřenost v sexu), samota - sbírka zkonfiskována, zakázána

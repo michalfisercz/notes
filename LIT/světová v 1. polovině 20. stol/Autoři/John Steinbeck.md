@@ -1,0 +1,21 @@
+- pocházel z Kalifornie
+- nedokončil studia na Stanfordově univerzitě 
+- mnoho povolání (na ranči, v cukrovaru, na stavbě silnice, ...)→ zkušenosti se promítly v sociálně kritických románech
+- útočiště před chaosem a vřavou velkoměstské civilizace nacházel na venkově
+- zachycuje osudy lidí na okraji společností chudých farmářů, dělníků, povalečů, někdy ukazuje | humornou stránku života nižších vrstev
+- nositel Nobelovy ceny
+- ve speciálně upraveném obytném autě podnikl koncem 50. let se svým psem Charleym okružní cestu po USA
+- urazili asi 15 000 km
+## dílo
+- roman **Hrozny hněvu**
+	- krutý život námezdních zemědělských dělníků v období krize
+	- výpověď o podmínkách sezónních dělníků, kteří cestují za prací do Kalifornie
+- roman **Na východ od ráje**
+	- osudy dvou bratrů, Adama a Charlese Traskových, a jejich potomků
+	- vychází z příběhu o Kainovi a Ábelovi
+- novela **O myších a lidech** (1937)
+	- námět této knihy zpracován take jako drama přátelství dvou námezdních zemědělských dělníků v době hospodářské krize
+	- mentálně zaostalý silák Lennie ma oblibu v hlazení
+	- hebkých věcí, ale svojí silou vždy způsobí tragédii Georg-stará se o Lennieho, putuji spolu po farmách, pracují a sní o své vlastní malé farmě
+	- celý příběh vyvrcholí, když hladí vlasy farmářovy snachy a nešťastnou náhodou ji zlomí vaz
+	- Jorge zabije Lennieho

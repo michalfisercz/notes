@@ -1,0 +1,14 @@
+- 1876-1916
+- americký autor
+- dobrodružný život, tulák po USA, v době zlaté horečky na Aljašce
+- mnoho nevšedních zaměstnání (námořník, pirát, zlatokop, lovec tuleňů...)
+- své zážitky využil při psaní povídek
+- nejlépe placený spisovatel své doby
+- dětská literatura, dobrodružná, sci-fi, cestopisy
+- závislost na alkoholu a morfiu - pravděpodobná smrt předávkováním
+- díla
+	- volání divočiny (hrdina - pes Buck)
+	- Bílý tesák
+	- Martina Eden
+	- Tulák na hvězdách
+							- Démon alkohol

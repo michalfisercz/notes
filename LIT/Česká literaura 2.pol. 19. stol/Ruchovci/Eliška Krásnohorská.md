@@ -1,0 +1,8 @@
+- 1847 - 1926
+- věnovala se emancipačnímu hnutí
+- založila první soukromé dívčí gymnázium Minerva (r. 1890)
+- překlady i vlastní tvorba
+- libreta k operám Bedřicha Smetany
+	- Hubička
+	- Tajemství
+	- Čertova stěna

@@ -1,0 +1,6 @@
+- impresionista a symbolista 
+- ředitel knihovny
+- ztroskotalo mu manželství, těžká nemoc → samotářství
+- přírodní a intimní lyrika i kritika společnosti 
+- začíná jako impresionista, např. básnická sbírka Květy intimních nálad
+- básnická sbírka Soucit a vzdor- symbolismus, téma sociální nespravedlnosti

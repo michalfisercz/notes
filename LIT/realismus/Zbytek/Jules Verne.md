@@ -1,0 +1,9 @@
+- 1828-1905
+- francouzský prozaik (ale i básník a dramatik)
+- zakladatel sci-fi
+- v dílech předpověděl mnoho vědeckých objevů
+- díla
+	- dvacet tisíc mil pod mořem
+	- cesta do středu Země
+	- Tajuplný ostrov
+	- Vynález zkázy

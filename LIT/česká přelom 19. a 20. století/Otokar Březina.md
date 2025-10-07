@@ -1,0 +1,18 @@
+vlastním jménem - Václav Jebavý
+- představitel symbolismu 
+- pocity smutku, mystické motivy 
+- ponořen do filozofie, samotář, žil v ústraní
+- učitel, ale odmítl např. místo univerzitního profesora 
+- 8 x nominován na Nobelovu cenu za literaturu 
+- v tvorbě 2 protipóly: radost ze života x deprese, únava, smutek 
+- konflikt mezi snem a skutečností, hudebnost verše
+- ### dílo
+	- básnické sbírky: 
+	- Tajemné dálky - složité metafory, tísnivá nálada 
+	- Svítání na západě 
+		- symbolistická obraznost 
+		- smrt je vysvobozením z pozemských strasti 
+		- bolest vede k poznání záhad vesmiru 
+	- Stavitelé chrámů 
+		- návrat k lidem, kteří budují dokonalejší svět 
+		- životní naděje

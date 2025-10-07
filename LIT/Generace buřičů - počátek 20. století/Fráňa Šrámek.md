@@ -1,0 +1,28 @@
+-  básník, prozaik, dramatik 
+- Sobotka, poté v městě Písek - autorovo oblíbené místo 
+- za antimilitaristickou propagandu a účasti na demonstracích dvakrát vězněn, byla mu prodloužena vojna 
+- za 1. sv. války na různých frontách 
+- za 2. sv. války na protest nevycházel ven
+- žil pak v ústraní
+- ### poezie
+	- sbírka **života bído, proč tě mám rád
+		- anarchistická lyrika 
+		- nenávist ke konvencím a měšťáctví 
+		- rozčarováni 
+	- sbírka **Modrý a rudý**
+		- antimilitaristická poezie, satirická, melancholická
+		- prostý jazyk 
+		- modrá barva rakouská uniforma, ruda anarchismus 
+	- sbírka **Splav**
+		- ovlivněno vitalismem 
+		- impresionismus, lyrika 
+		- motivy, žena, příroda
+- ### próza
+	- román **Stříbrný vítr 
+		- autobiografické prvky 
+		- pocity dospívajícího Jana Ratkina a obecně mladé generace 
+		- impresionismus, lyrika 
+	- drama **Měsíc nad řekou 
+		- ze sjezdu stárnoucích spolužáků ze studii 
+		- zamyšlení nad ztracenými iluzemi mládí
+		- střet starého a nového světa

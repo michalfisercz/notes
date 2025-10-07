@@ -1,0 +1,5 @@
+- irský básník, dramatik, a esejista
+- kotroverzní osoba
+- dandy = obohatí muži, kteří nemusí díky zděděnému jmění pracovat
+- dílo
+	- román  Obraz Doriana Graye

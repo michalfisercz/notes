@@ -1,0 +1,9 @@
+- reakce na absurditu a nesmyslnost války
+- boří hranice mezi druhy a žánry, mezi uměním a životem
+- **hravost**, snaha uniknout skutečnosti
+- v básni je věta rozbíjena na jednotlivá slova a jejich částí, výpověď je tvořena výkřiky, tóny a zvoláními
+- návrat ke spontánnosti, odmítnutí řádu, logiky
+- Tristan Tzara: Manifest DADA
+- dada franc, houpací koník
+- v české literatuře se moc neuplatnil, ale ovlivnil skupinu Devětsil
+- počátky poetismu a tvorbu Jiřího Voskovce a Jana Wericha

@@ -1,0 +1,10 @@
+- umělecký směr i nové vidění světa, počátek avantgardy
+- vznik Itálie
+- Filippo Tommaso Marinetti: Manifest futurismu
+- dynamika, rychlost, pohyb
+- obdiv k síle strojů a technice, obhajoba války
+- bourá vše harmonické a strnulé
+-  zkratkovitost
+- volné sdružování představ, překvapivá stavba věty, bez interpunkce, teorie osvobozených slov
+- zvýraznění grafické podoby básně - kaligramy
+- cíl: ukázat uspěchanou dobu, kterou nekritizovali, ale obdivovali

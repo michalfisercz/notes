@@ -1,0 +1,6 @@
+- 1845 - 1912
+- představitel lumírovců (spojoval ruchovské a lumírovské tendence), básník, redaktor Lumíru, překladatel (33 Shakespearových dramat)
+- narozen ve Zbirohu
+- pobyt v USA, po návratu profesorem angličtiny na obchodní akademii
+- lyrika: Na prahu ráje, venkovská tematika: České znělky
+- zakladatel moderní básnické tvorby pro děti: Skřivánčí písně, Zvony a zvonky

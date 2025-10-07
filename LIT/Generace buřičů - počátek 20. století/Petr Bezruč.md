@@ -1,0 +1,15 @@
+- vlastním jménem Vladimír Vašek
+- z rodiny učitele a slezského buditele 
+- **SLEZÁK**
+- po studiu na gymnáziu studoval filologii na univerzitě v Praze, **studia nedokončil** 
+- trávil mnoho času v hospodách pitkami se spolužáky 
+- vrátil se domů, aby pomohl matce - sama se musela starat ještě o pět dětí, zadlužená
+- začal pracovat na poště v Místku, všímal si lidské bídy 
+- velký turista --> seznamoval se s tradicemi i problémy slezského lidu, stal se jeho zastáncem
+- sbírka **Slezské písně** 
+	- zpočátku básně posílal do časopisu Čas
+	- vzbudily okamžitý ohlas 
+	- později vydány knižně 
+	- sociální a národnostní problémy Slezska 
+	- intimní básně, básně reagující na sociální bídu a národnostní útlak (Ostrava, Maryčka Magdónova)
+	- pohled na českou politiku

@@ -1,0 +1,14 @@
+- něm. básník, dramatik, žurnalista a překladatel
+- předchůdce dadaismu, surrealismu, expresionismu i absurdního dramatu, zakladatel nonsensové poezie
+- **nonsensová poezie** obsahuje zdánlivě nesmyslné prvky, humor, hříčky se slovy a hláskami
+- z umělecké rodiny (otec malíř), v 10 letech po smrti matky odešel do internátní školy - šikanován
+- zemřel předčasně na tuberkulózu
+## dílo
+- **Šibeniční písně** (1905)
+	- lyrické básnické hříčky
+	- připomínají dětské říkanky
+	- nesrozumitelné výrazy, novotvary, slovní hříčky
+	- náhodné hlásky a slabiky vytváří grafické obrazce
+	- některé básně latinsky, některé vymyšleným jazykem
+- jeho básně dostaly prostor v divadle Semafor v představení Papírové blues
+- texty překládány mnohými čes. autory, některé zhudebněny (Stromboli, Visací zámek, The Plastic People of the Universe)

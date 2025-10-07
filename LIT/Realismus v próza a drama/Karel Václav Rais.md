@@ -1,0 +1,7 @@
+- zobrazuje život v Podkrkonoší (odtud pocházel) a na Vysočině (zde učil)
+- povídková kniha Výminkäři, román Kalibův zločin 
+	- vztahy lidí, do kterých zasáhla moc peněz, bezcitnost dětí ke starým rodičům, kritický tón
+- román Zapadli vlastenci
+	- konec 40. let 19. st. v Podkrkonoší 
+	- vyzdvihuje vliv drobné inteligence v době NO - buditelská snaha faráře Stehlíka a učitele Čermáka
+	- nerealistické vlastnosti postav

@@ -1,0 +1,4 @@
+- 1840 - 1914
+- redaktor Národních listů - byl vězněn, prozaik, tvůrce romaneta, přichází s prvky sci-fi
+- romaneto
+	- obsáhlejší povídka s tajemstvím, má překvapivé zakončení, kdy se záhda racionálně vysvětlí

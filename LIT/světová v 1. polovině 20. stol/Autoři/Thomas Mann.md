@@ -1,0 +1,13 @@
+- významný něm. spisovatel a esejista
+- nositel Nobelovy ceny za lit.
+- jeho bratr Heinrich také spisovatel
+- pocházel z rodiny velkoobchodníka
+- oženil se s židovskou dívkou - 6 dětí, z jeho deníků lze usoudit, že byl homosexuál
+- po nástupu nacismu emigrace do Švýcarska, v době 2. sv. v. v USA, pak návrat do Švýcarska
+## dílo
+- proslavil se románem **Buddenbrookovi**
+	- vzestup a postupný úpadek 4 generací významné rodiny obchodníků (psychologické vykreslení postav)
+- novela **Smrt v Benátkách**
+	- spisovatel Gustav odjíždí do Benátek, platonicky se zamiluje do jednoho chlapce okouzlen jeho krásou a dokonalostí, ve městě se šíří epidemie cholery, Gustav zůstává a umírá
+- román **Kouzelný vrch**
+	- z prostředí sanatoria, kde se léčí tuberkulóza, knihu začal psát, když jeho žena onemocněla tuberkulózou

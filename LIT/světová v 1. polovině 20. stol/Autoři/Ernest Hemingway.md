@@ -1,0 +1,18 @@
+- představitel ztracené generace
+- nositel. Nobelovy ceny za literaturu
+- zásluhou otce od dětství zájem o přírodu, sport a lov
+- stal se reportérem
+- 1918 jako dobrovolník Červeného kříže odjel do Itálie - těžce zraněn
+- po válce zahraniční dopisovatel
+- člen bohémské skupiny v Paříži, vice se věnoval psaní
+- dobrodružné výpravy do Afriky
+- reporter občanské války ve Španělsku
+- poslední léta trávil na Kubě
+- život pravděpodobně ukončil sebevraždou (zastřelením)
+## dílo
+- novela **Stařec a moře**
+	- dvoudenní zápas starého kubánského rybáře Santiaga s obrovskou rybou
+	- Nobelova cena; zfilmováno
+- novela **Smrt odpoledne**
+	- téma koridy
+- kniha o lovech v Africe **Zelené pahorky africké**

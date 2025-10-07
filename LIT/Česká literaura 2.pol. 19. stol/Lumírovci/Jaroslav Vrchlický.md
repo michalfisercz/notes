@@ -1,0 +1,9 @@
+- vlastním jménem - Emil Frida 
+- 1853-1912
+- plodný básnik (asi 80 sbírek), dramatik (cca 50 her), výborný překladatel překládal z 18 jazyků
+- narozen v Lounech, maturoval v Klatovech (dnes Gymnázium Jaroslava Vrchlického)
+- studium na filozofii
+- vychovatel v šlechtické rodině v Itálii, políticky činný, členem mnoha institucí, nomínován na Nobelovu cenu - nezískal ji
+- nové náměty i formy, snaha o formální dokonalost
+- inspirace hlavně francouzskou a italskou literaturou a také antikou a renesanci
+- snaha vytvořit poezii, rovnající se evropské

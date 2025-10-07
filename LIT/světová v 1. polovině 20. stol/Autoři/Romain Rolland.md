@@ -1,0 +1,15 @@
+- francouzský dramatik, prozaik, esejista, kritik
+- zajímal se o historii, dějiny hudby a umění
+- pocházel z vážené notářské rodiny
+- za svůj první románový cyklus **Jan Kryštof** o nadaném hudebním skladateli (má připomínat formu symfonie - 4 části) - získal r. 1915 Nobelovu cenu - finanční odměnu věnoval na zmírnění útrap lidí postižených 1. sv. v., pracoval pro Červený kříž
+- humanistické a pacifistické názory šířil ve svých esejích
+- velice uznávaný i přes jeho protifašistické a prosovětské názory nebyl v době okupace zatčen
+## dílo
+- novela **Petr a Lucie**
+	- Paříž za 1. sv. v., student Petr potkává Lucii - malířku laciných obrázků, zamilují se do sebe
+	- Překážkou jejich vztahu je Petrovo povolání do armády. Rozhodnou se proto, že se zasnoubí. Na Velký pátek si jdou poslechnout chór do kostela. Paříž je zrovna v těch dnech silně bombardována a zřítí se rovněž kostel, ve kterém se Petr s Lucií nacházejí. Oba milenci tak umírají.
+	- témata: Láska dvou mladých lidí ve složitém válečném období, krutost a nesmyslnost války, životní kontrasty (chudoba x bohatství, láska x nenávist), přeměna člověka válkou
+- román **Dobrý člověk ještě žije**
+	- odehrává se v Burgundsku v době Ludvíka XIII.
+	- osudy dobrého venkovana, schopného se radovat ze života navzdory okolnostem (náboženské války, nemoci, zranění, osobní tragédie)
+	- životopisy slavných osobností (Michelangelo, Beethoven, Tolstoj ad.)

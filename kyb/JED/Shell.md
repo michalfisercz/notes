@@ -1,0 +1,4 @@
+- `C:` - změna disku
+- `cd` - změna adresáře
+- `..` - nadřízená složka
+- `ls` - list dir

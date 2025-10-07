@@ -1,0 +1,7 @@
+- divadelní hry z prostředí slovácké vesnice
+- realita venkova, způsob uvažování venkovských lidí
+- ženské hrdinky
+- divadelní hry
+	- Gazdina roba
+	- Její pastorkyňa
+		- námět si vybral pro svou operu Leoš Janáček

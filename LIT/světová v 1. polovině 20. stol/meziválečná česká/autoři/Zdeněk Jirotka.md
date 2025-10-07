@@ -1,0 +1,8 @@
+- spisovatel, humorista, fejetonista, rozhlasový dramatik
+- redaktor Lidových novin, týdeníku Dikobraz, v 50. letech a počátkem 60. let v redakci Československého rozhlasu
+- jeho vzorem Jerome Klapka Jerome (Tři muži ve člunu)
+- inspirace anglickým humorem
+- humoristický román **Saturnin** (***v maturitní četbě***)
+	- zfilmováno seriál, film
+	- mladý úředník z Prahy u sebe zaměstná svérázného sluhu Saturnina, který ho dostane do mnoha neuvěřitelných situaci
+- **Muž se psem**

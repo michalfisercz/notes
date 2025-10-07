@@ -1,0 +1,17 @@
+- ze zámožné rodiny, studoval prestižní školu
+- v armádě, ale 1. sv. války se neúčastnil
+- reklamní textař, dělník, po napsání románu **Na prahu ráje** (1920) se stává celebritou
+- bohémský život, manželství se spisovatelkou Zeldou Sayrovou
+- reprezentovali život tzv. éry jazzového věku - i přes prohibici v USA se pořádají večírky, v klubech se hraje jazz
+- jejích bujarý život zdrojem námětů pro lit. díla
+- atraktivní náměty, dějový spád, americká vyšší společnost, mladí bohatí lidé, alkohol, večírky, nevěry
+## dílo
+- román **Něžná je noc**
+	- životní příběh psychiatra Dicka, ve švýcarském sanatoriu se setkává s pacientkou Nicol, vezme si ji, její stav se zlepší
+	- později jejich vztah narušen sobeckostí filmové hvězdy, nemoc se vrací, Dick má pocit marnosti, vědomí závislosti na bohatých ho přivádí ke skepsi a alkoholismu
+	- citový rozvrat rodiny a útěk od velké společnosti
+- román **Velký Gatsby**
+	- vypravěč Nick má za souseda Jaye Gatsbyho - bohatý s tajemnou minulostí, pořádá okázalé večírky, chce seznámit s Nickovou sestřenicí Daisy, která je ale vdaná za Toma, Tor má milenku
+	- Daisy na Gatsbym obdivuje jen jeho majetek a bohatství
+	- Daisy autem srazí Tomovu milenku Myrtle, manžel Myrtle hledá vůz, který Myrtle srazil, Tom ho posílá za Gatsbym, manžel Gatsbyho zastřelí
+	- motiv snu a jeho nenaplnění; několikrát zfilmováno

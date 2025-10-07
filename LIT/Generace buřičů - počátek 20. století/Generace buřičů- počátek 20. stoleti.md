@@ -1,0 +1,28 @@
+- Čechy-součást Rakousko-Uherska
+- kritika zastaralé monarchie, církve, armády, byrokracie a policie 
+- národnostní spory --> atentát na následníka Františka Ferdinanda d'Este --> 1. světová válka (1914- 1918)
+- anarchističtí buřiči - „básníci života a vzdoru" 
+- anarchistická orientace, bohémský život, tuláctví, svoboda, příroda, revolta, destrukce měšťáckého světa, existenční nezajištěnost 
+- formovali se kolem Neumannova časopisu **Nový kult 
+- navazovali na Českou modernu
+- ### Znaky anarchismu
+	- spolupráce s dělníky 
+	- odmítání autority státu 
+	- utopický socialismus 
+	- volná láska, kritika tradičního manželství 
+	- emancipace žen 
+	- svoboda jedince, individualita 
+	- antimilitarismus
+- ### Tvorba
+	- pravidelný, jednoduchý verš 
+	- blízko k lidové tvorbě, inspirace folklórem 
+	- jednoduchý jazyk (bez metafor), hovorový i nespisovný 
+	- jednoduchost, úspornost ve vyjadřování 
+	- sociální otázky
+- ### Autoři
+	- [[Stanislav Kostka Neumann]]
+	- [[Fráňa Šrámek]]
+	- [[Karel Toman]]
+	- [[Viktor Dyk]]
+	- [[František Gellner]]
+	- [[Petr Bezruč]]

@@ -1,0 +1,13 @@
+-  nejtěsněji spjat s generaci buřičů 
+- básník, prozaik, malíř, karikaturista 
+- chudá židovská obchodnická rodina-jako dítě cestoval s otcem kramářem po poutích 
+- studoval techniku ve Vídni a báňskou akademii, také malířství v různých evropských městech
+- jako student bohém, vysokoškolská studia nedokončil
+- zemřel pravděpodobně v 1. sv. v. na frontě v Haliči
+- sb. **Po nás ať přijde potopa, Radosti života** 
+	- básně podobné písničkám 
+	- pravidelný rým a verš 
+	- krátké, jednoduché, časté opakování
+	- přímá pojmenování, až šokující otevřenost 
+	- inspirace lidovou tvorbou 
+	- cynismus, sebeironie, bohémský život

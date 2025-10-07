@@ -1,0 +1,19 @@
+- spisovatel, novinář, dramatik, překladatel a fotograf
+- narozen v Malých Svatoňovicích, otec lékař, matka Božena byla velmi dominantní, kromě staršího bratra Josefa měl ještě sestru Helenu 
+- studia na různých gymnáziích (z jednoho vyloučen za organizaci protirakouského spolku), doktorát na filozofické fakultě, studijní pobyty v Paříži a Berlíně
+- fyzické postižení (Bechterevova nemoc) nebyl v 1. sv. v.
+- krátce pracoval jako vychovatel v šlechtické rodině Lažanských
+- manželka Olga Scheinpflugová - vzali se až po 15leté známosti
+- **pátečníci** - skupina osobností první republiky 
+- **fejeton**
+- **sloupek**
+- **demokratický proud**
+# dílo
+- dramata
+	- **R.U.R.** (***v maturitní četbě***) - továrna na roboty
+	- **Věc Makropulos** - morálně etické otázky dlouhověkosti
+	- **Matka** - protiválečné
+	- **Bílá nemoc** (***v maturitní četbě***) - protiválečné
+- další tvorba
+	- **povídky z jedné a druhé kapsy** - humorné, satirické
+	- cestopisné prózy: **Italské listy, Anglické listy, Výlet do Španěl**

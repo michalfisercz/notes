@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="198.41302"
+   height="198.41302"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="circle.svg"
+   inkscape:version="1.4.1 (93de688d07, 2025-03-30)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.5740836"
+     inkscape:cx="84.497184"
+     inkscape:cy="136.3986"
+     inkscape:window-width="1536"
+     inkscape:window-height="888"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <!-- Draw the circle -->
+  <circle
+     cx="99.206512"
+     cy="99.206512"
+     r="97.881371"
+     stroke="#ffffff"
+     stroke-width="2.65029"
+     fill="none"
+     id="circle1" />
+  <!-- Mark the center with a small dot -->
+  <circle
+     cx="99.206512"
+     cy="99.206512"
+     r="5.8728824"
+     fill="#ffffff"
+     id="circle2"
+     style="stroke-width:1.95762" />
+  <!-- Label the center -->
+  <text
+     x="48.403507"
+     y="123.51994"
+     font-family="Arial"
+     font-size="23.4915px"
+     fill="#ffffff"
+     id="text2"
+     style="stroke-width:1.95762">[m, n]</text>
+  <!-- Draw the radius line -->
+  <line
+     x1="99.206512"
+     y1="99.206512"
+     x2="197.08788"
+     y2="99.206512"
+     stroke="#00ffff"
+     stroke-width="2.65029"
+     id="line2" />
+  <!-- Label the radius -->
+  <text
+     x="148.1472"
+     y="89.418381"
+     font-family="Arial"
+     font-size="23.4915px"
+     fill="#00ffff"
+     id="text3"
+     style="stroke-width:1.95762">r</text>
+</svg>

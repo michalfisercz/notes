@@ -1,0 +1,14 @@
+- **Vest pocket revue** - studentská recese, prvotina 1927
+- první hry doba hospodářské krize kritizují nezaměstnanost a její důsledky
+	- **Balada z hadrů**
+- hry ze 30. let kritizovali nacismus, útočili na diktaturu a obhajovali demokracii
+- **Golem, Caesar, Osel a stín, Kat a blázen, Rub a líc, Těžká Barbora** (***v maturitní četbě***), **Pěst na oko**
+
+- 1939 V-W emigrovali do USA
+- [[Jaroslav Ježek]] r. 1942 v New Yorku umírá
+- po válce se již nepodařilo obnovit oblibu divadla
+- r. 1948 ještě proběhlo uvedení amerického muzikálu Divotvorný hrnec
+- [[Jiří Voskovec]] (1905-1981) emigroval podruhé v r. 1948 do Francie a potom do USA
+- [[Jan Werich]] (1905-1980) se vrátil do Čech a vytvořil dvojici s [[Miroslavem Horníčkem]] (forbíny)
+- hrál v mnoha filmech (Byl jednou jeden král, Císařův pekař, Pekařův císař)
+- na tradici V-W navázali např. Jiří Suchý a Jiří Šlitr

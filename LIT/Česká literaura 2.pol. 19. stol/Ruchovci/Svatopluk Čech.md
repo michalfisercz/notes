@@ -1,0 +1,5 @@
+- básník, prozaik, novinář, a cestovatel, povoláním advokát
+- psal různé žánry
+- eposy: Lešetínský kovář, Ve stínu lípy
+- satirické povídky o panu Broučkovi
+	- výlety pana Broučka

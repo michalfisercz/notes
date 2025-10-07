@@ -1,0 +1,20 @@
+- využití
+	- cyklo, motorky, auta
+	- baterky
+	- signalizace (PC)
+	- dálkové ovladače
+	- LED obrazovky
+	- vánoční tramvaj
+- výhody
+	- 10 x větší svítivost než žárovka
+	- dlouhá životnost
+	- nízká spotřeba
+	- často ON/OFF
+	- rychlá reakce
+	- barvišky :D
+		- ČERVENÁ 1,85 V
+		- ŽLUTÁ 2 V
+		- ZELENÁ 2-3 V
+- elektrody
+	- Anoda - delší nebo plíšek
+	- Katoda - uvnitř větší

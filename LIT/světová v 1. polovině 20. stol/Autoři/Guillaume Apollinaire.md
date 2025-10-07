@@ -1,0 +1,19 @@
+- zakladatel moderní franc. poezie
+- matka polská šlechtična hazardní hráčka, otec zřejmě Švýcarsko-italský aristokrat
+- dětství strávil na Riviéře, pak žil v Paříži
+- vězněn pro podezření z krádeže
+- účast v 1. sv. válce bral jako dobrodružství,
+- zasažen střepinou granátu - 2 x operace hlavy
+- 1918 se oženil, téhož roku podlehl španělské chřipce
+- navštívil také Prahu, povídka **Pražský chodec**
+## dílo
+- bás. sb. **Alkoholy** (1913)
+	- kubofuturistické básně blízké surrealismu
+	- odstranění interpunkce
+	- polytematičnost - všední zážitky se misi se sny, vzpomínkami a úvahami
+	- volné asociace
+	- pojem krásy rozšířen na moderní techniku
+	- oslava života
+	- součástí báseň **Pásmo** (dojmy, nálady, některé verše reflektují návštěvu Prahy)
+- bás. sb. **Kaligramy** (1918)
+	- propojení poezie s výtvarným uměním, texty básně vepsané do určitých obrazů (např. Eiffelovy věže)

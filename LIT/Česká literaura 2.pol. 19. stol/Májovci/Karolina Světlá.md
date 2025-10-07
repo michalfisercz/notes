@@ -1,0 +1,9 @@
+- vlastním jménem - Johanna Rottova
+- 1830-1899
+- autorka tzv. venkovského románu 
+- z poloněmecké rodiny pražského obchodnika Rotta
+- boj za emancipaci žen, přátelství s Boženou Němcovou, Eliškou Krásnohorskou 
+- tvořit začala v době osobní krize (zemřela jim jediná dcera) 
+- v létě v manželově rodiští (Světlé pod Ještědem) -> pseudonym Světlá 
+- platonický vztah s Nerudou 
+- ke konci života špatně viděla, své dílo diktovala 

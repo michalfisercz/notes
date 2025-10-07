@@ -1,0 +1,10 @@
+- seskupení básníků --> brzy se rozpadlo 
+- r. 1895 - Manifest České moderny (Machar, Březina, Sova ...)
+- společné rysy 
+	- svoboda umělce jako jednotlivce
+	- subjektivita, lyrika
+	- tvorba je únikem ze všednosti
+	- právo jedince na vlastní osobité pojetí tvorby
+- ### autoři
+	- [[Antonín Sova]]
+	- [[Josef Svatopluk Machar]]

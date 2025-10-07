@@ -1,0 +1,6 @@
+- básník, výtvarník, představitel dekadence
+- z chudých poměrů, zemřel ve 24 letech na tuberkulózu 
+- působil v časopisu Moderní revue 
+- hudebnost verše 
+- sbírka **Pozdě k ránu 
+- sbírka **Mstivá kantiléna

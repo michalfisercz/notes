@@ -1,0 +1,13 @@
+- narozen v Hronově
+- studia historie na KU
+- učitel v Litomyšlí a v Praze
+- přátelil se s malířem Mikolášem Alšem, který mu často ilustroval knihy
+- historické romány
+- velká popisnost, malé prokreslení charakteru postav, bohatý děj, srozumitelný jednoduchý jazyk, dobře popsané davové scény (dějiny tvoří kolektiv, ne jedinci - vliv F. Palackého)
+- Staré pověsti české nejstarší období českých dějin, čerpal z Kosmovy a Dalimilovy kroniky
+- romány Mezi proudy, Proti viem, Bratrstvo, Husitský král - vyzdvižení doby husitské (vrchol českých dějin) 
+- romány Skály, Skaláci, Temno doba pobělohorská doba úpadku Psohlavci - Chodsko, osud Jana Sladkého Koziny 
+- 5dílný román F. L. Věk - z doby národního obrození 
+- povídka Filosofská historie studenti filosofie v r. 1848 
+- divadelní hry s historickým námětem Jan Hus, Jan Žižka 
+- #### Lucerna (maturitni četba) divadelní hra s pohádkovým námětem

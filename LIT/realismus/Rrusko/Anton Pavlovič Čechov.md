@@ -1,0 +1,11 @@
+- 1860-1904
+- z kupecké rodiny, sám lékař, později žil na venkově a zdarma léčil chudé
+- zpočátku psal humoristické povídky, přispíval do novin
+- povídky - řeší duševní a mezilidské vztahy ("smích skrze slzy")
+- známý především jako tvůrce lyrického a psychologického dramatu
+- prostředí ruského venkova, statkářské šlechty
+- hrdinové nejsou schopni udělat změnu ve svém životě
+- lyrická drama VIŠŇOVÝ SAD(maturitní četba)
+##### Višňový sad (maturitní četba)
+- lyrické drama
+- (.......)

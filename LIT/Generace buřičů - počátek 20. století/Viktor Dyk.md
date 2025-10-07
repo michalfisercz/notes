@@ -1,0 +1,9 @@
+- básník, prozaik, publicista, dramatik a nacionalistický politik 
+- vystudoval práva, ale věnoval se psaní, publikování a politice 
+- za 1. sv. v. v protirakouském odboji a vězněn za literární činnost ve Vídni
+- zvolen poslancem, pak i senátorem 
+- zprvu obdivovatel TGM, pak jeho kritik a odpůrce 
+- vášnivý šachista
+- zemřel na mrtvici při koupání v Chorvatsku
+- ### dílo
+	- novela **Krysař**

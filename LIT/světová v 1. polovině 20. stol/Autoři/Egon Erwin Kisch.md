@@ -1,0 +1,8 @@
+- „zuřivý reportér" (**Zuřivý reportér** je též název souboru jeho reportáží)
+- tvůrce moderní reportáže
+- novinář
+- autor souboru kriminalistických studií **Pražský pitaval**
+- světoběžník - hodně cestoval (např. v převleku za muslima do Mekky)
+- účastnil se i španělské občanské války
+- 1939 jako žid musel utéci z Československa
+- po válce se vrátil zpět

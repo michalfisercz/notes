@@ -1,0 +1,11 @@
+- 1835-1910
+- pseudonym - twain = dva sáhy hluboko = bezpečná hloubka vody pro říční parník
+- americký spisovatel
+- měl sotva základní vzdělání
+- pracoval jako sazeč v tiskárně svého bratra -> dostal se k novinařině a psaní vůbec
+- pracoval také jako kormidelník na lodi na řece Mississippi
+- později reportér, cestoval (i na Divoký Západ)
+- od humoristických článků až ke psaní povídek a románů -> stal se z něj uznávaný spisovatel
+- díla
+	- dobrodružství Hucklberryho Finna
+	- Dobrodružství Toma Sawyera

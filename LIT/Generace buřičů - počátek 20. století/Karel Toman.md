@@ -1,0 +1,15 @@
+- vlastním jménem - Antonín Bernášek
+- básník, novinář, překladatel z francouzštiny 
+- střídal úřednická a redaktorská místa, hodně cestoval 
+- básnická tvorba - zkušenosti ze společenského dění, bezprostřední prožitky 
+- výborný lyrik
+- sb. **Pohádky krve 
+	- symbolismus 
+	- proti měšťáckým konvencím
+	- vyzdvihuje plně prožitý život 
+	- erotické motivy
+- sb. **Torzo života 
+	- vyjádření bolesti a krize člověka
+- bás. sbírka **Měsíce
+	- překonal svoje buřičství
+	- 12 básní nazvaných podle měsíců

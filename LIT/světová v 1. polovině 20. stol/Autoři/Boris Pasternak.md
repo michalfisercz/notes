@@ -1,0 +1,14 @@
+- ruský básník a prozaik, držitel Nobelovy ceny
+- z umělecké rodiny, studoval hudbu a filozofií, pak se věnoval literatuře 
+- účastnil se bojů 2. sv. války (obrana Moskvy před nacisty)
+- rané období - lyrická poezie osobní intimní dojmy a prožitky, láska, ruská příroda
+- nepsal angažovanou komunistickou poezii, ale nevystupoval ani proti režimu
+- to se změnilo po napsání románu Doktor Živago
+## dílo
+- román **Doktor Živago**
+	- stěžejní dílo, psal jej 10 let
+	- zachycuje období kolem ruské bolševické revoluce, osudy ruské inteligence
+	- nebylo v souladu s ideologickým pojetím tohoto historického období
+	- Již v průběhu psaní knihy sledován is milenkou Olgou sovětskou tajnou službou
+	- kniha nesměla vyjít, podařilo se ji vydat až r. 1957 v Itálii
+	- autorovi bylo zakázáno převzít si r. 1958 Nobelovu cenu

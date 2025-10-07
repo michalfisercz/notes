@@ -1,0 +1,7 @@
+- zakladatel moderní české literární kritiky 
+- nekompromisní kritik, požadoval opravdovost umění, odmítal ideologii v literatuře
+- "Žádáme od umělce: Buď svým a buď to ty!"
+- kritiky v podobě esejů (esej = útvar na pomezí uměleckého a odborného stylu, zpracovává odborné téma uměleckým způsobem; subjektivní)
+- doktor filozofie a profesor románských jazyků na UK 
+- vlastní časopis **Šaldův zápisník** - básně, polemiky a kritiky 
+- monografie věnované českým i světovým autorům

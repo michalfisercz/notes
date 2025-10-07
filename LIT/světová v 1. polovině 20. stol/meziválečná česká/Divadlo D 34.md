@@ -1,0 +1,8 @@
+- experimentální **režisérské divadlo** (soustředí se na originální adaptace klasických her nebo dramatizace slavných textů)
+- název se měnil v závislosti na příslušném letopočtu
+- založil [[Emil František Burian]] (1904-1959)
+- levicově orientovaný, člen Devětsilu
+- propojení všech složek: textové, mimické, hudební, výtvarné, taneční, světelné
+- repertoár: adaptace světových her (Goethe), klasiků (Shakespeare), dramatizace poezie a prózy (Mácha, Hašek, Dyk), hry současníků Brecht, Nezval), montáže z lidové poezie a dramat
+- 1941 divadlo uzavřeno a E. F. Burian deportován do koncentračního tábora
+- o válce se vrací a tvoří umělecky bezcenné hry v duchu socialistického realismu

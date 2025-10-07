@@ -1,0 +1,29 @@
+- pražský německy píšící spisovatel židovského původu
+- předchůdce absurdní literatury
+- nekuřák, abstinent, vegetarián
+- složitý vztah s otcem ze svých pocitů se dostával
+- psaním dopisů - dílo **Dopis otci**
+- ztrácel sebedůvěru a uzavíral se do sebe
+- v jeho knihách pocity úzkosti, vykořenění, odcizení, neschopnost dorozumět se (nikdy se necítil být součásti české, německé ani židovské komunity)
+- vystudoval práva, úředníkem v pojišťovně
+- osudová známost s Milenou Jesenskou (viděli se jen dvakrát v životě, ale psali si)
+- byl třikrát zasnouben s jinými dívkami, ale nikdy se neoženil
+- hodně rukopisů zničil velice sebekritický
+- zemřel na tuberkulózu
+- jeho nejlepší přítel Max Brod měl po jeho smrti zničit nevydaná díla, on je však zachránil a vydal
+- Kafka ve světě velmi známý autor
+## dílo
+- román **Proces**
+	- absurdní příběh člověka, který se nemůže bránit
+	- Josef K., prokurista banky, je zatčen neznámými muži a vyšetřován
+	- snaží se přijít na to, proč je zatčen, ale nedoví se to
+	- nakonec pochybuje o své nevině, přizná se, rok na to je popraven
+- nedokončený román **Zámek**
+	- zeměměřič K. má provést měření ve vesnici, snaží se kontaktovat úředníky ze zámku, ale marně, umírá vysílením, na smrtelné posteli dostane s měřením e dopis, že může začít
+	- boj jedince proti nesmyslnému systému (byrokracii)
+- povídka **Proměna**
+	- Řehoř Samsa se jednoho dne probudí a zjistí, že se proměnil v hmyz
+	- povídka zachycuje, jak se mění vztah rodiny k němu
+- nedokončený román **Amerika** (též pod názvem **Nezvěstný**)
+	- osud mladíka Karla Rossmana, kterého otec za trest pošle ke strýci do Ameriky
+	- Karel hledá své místo v životě

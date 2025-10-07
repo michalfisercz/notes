@@ -1,0 +1,8 @@
+- česky avantgardní umělecký a životní program, od r. 1924
+- apolitičnost
+- umění žít a užívat", poetika všedního dne
+- inspirace lidovou zábavou (cirkus, varieté, exotika....
+- obdiv k civilizaci, velkoměstu
+- akouzleni emocemi, okamžikem, spontánnost, hravost, radost ze života jako obrana před racionalitou světa
+- experimentátorství, působení na všechny čtenářovy smysly; volné asociace
+- teoretik K. Teige, básníci: V. Nezval, J. Seifert, K. Biebl, J. Hora

@@ -1,0 +1,6 @@
+- narozen v Klenči pod Čerchovem, ze selského rodu
+- studia na gymnáziu v Domažlicích a kněžském semináři v Praze
+- vesnický farář
+- psal hlavně o Chodsku, tamních zvycích a historii
+- zobrazíl í působení B. Němcové na Chodsku román Paní komisarka
+	- kniha pro děti Hanýžka a Martinek popis lidových zvyků na Chodsku během roku

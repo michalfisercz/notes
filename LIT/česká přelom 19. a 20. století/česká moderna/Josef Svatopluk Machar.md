@@ -1,0 +1,11 @@
+- iniciátor a významný představitel České moderny 
+- úředník ve vídeňské bance, ale udržoval styk s českou kulturou
+- za protirakouskou činnost ve vězení 
+- po 1. sv. v. generální inspektor čs. armády, s Masarykem se ale názorově rozešel
+- ### dílo
+	- sbírka Confiteor I-III (= Vyznávám se) 
+		- lyrické básně 
+		- provokativní milostná poezie 
+		- zklamání ze společnosti 
+	- básnícká sbírka Tristium Vindobona (= Žalozpěvy z Vídně) politická lyrika
+	- další témata: nadčasové problémy, vývoj morálky, ženská emancipace (veršovaný román Magdalena)

@@ -1,0 +1,12 @@
+- německý dramatik, divadelní teoretik a režisér, představitel avantgardy
+- zastánce marxismu, pronásledován nacisty
+- po nástupu Hitlera žil v různých evropských zemích, snažil se prosadit i v Hollywoodu, ale neuspěl
+- po válce návrat do NDR --> vytvořil epické divadlo plné experimentu (přerušování komentáři či písněmi - tzv. zcizovací efekty - divák by se neměl emocionálně ztotožňovat s postavami)
+## dílo
+- **Matka kuráž a její děti**
+	- odehrává se v době 30leté války
+	- matka musí přežít, obchoduje s armádou --> válka = příležitost k obživě (symbol osudu: kára s obživou, kterou táhne stále dál)
+	- postupně přichází o svoje děti
+- **Třígrošová opera**
+	- hra s písněmi (podle Žebrácké opery Johna Gaye)
+	- boj dvou konkurenčních londýnských gangů (postava zločince Mackieho Messera)
