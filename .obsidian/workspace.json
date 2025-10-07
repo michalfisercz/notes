@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/JED/Booleova algebra.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Booleova algebra"
+              "title": "README"
             }
           }
         ]
@@ -179,10 +179,10 @@
   },
   "active": "a33907620934fde0",
   "lastOpenFiles": [
+    "kyb/JED/Booleova algebra.md",
     "kyb/JED/Git.md",
     "kyb/JED/Shell.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
-    "kyb/JED/Booleova algebra.md",
     "FYZ/molekoule.md",
     "k",
     "README.md",
