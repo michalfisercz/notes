@@ -74,6 +74,6 @@ Operace (+, $\cdot$, negace (bar))
 - Zapsání minimalizovaného výrazu na základě seskupených bloků.
 
 > Poznámka:
-> pokud seskupujem do bloků jedničky (1), vzniká zápisem disjuktní normální forma (součet součinů). Můžeme rovněž seskupovat nuly (0), pak vzniká konjuktní normální forma (součin součtů).
+> pokud seskupujeme do bloků jedničky (1), vzniká zápisem disjuktní normální forma (součet součinů). Můžeme rovněž seskupovat nuly (0), pak vzniká konjuktní normální forma (součin součtů).
 
 <img src=Images/Karnaugh_example.png>

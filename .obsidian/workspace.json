@@ -11,10 +11,14 @@
             "id": "a33907620934fde0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "kyb/JED/Booleova algebra.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Booleova algebra"
             }
           }
         ]
@@ -173,20 +177,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df0962ef622131b4",
+  "active": "a33907620934fde0",
   "lastOpenFiles": [
+    "kyb/JED/Git.md",
+    "kyb/JED/Shell.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
     "kyb/JED/Booleova algebra.md",
     "FYZ/molekoule.md",
     "k",
     "README.md",
-    "kyb/JED/Shell.md",
     "kyb/SVI/Regulační Technika - 2.md",
     "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI/PID regulace.md",
     "kyb/SVI",
     "kyb/JED/Kybernetika.md",
-    "kyb/JED/Git.md",
     "kyb/JED",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
