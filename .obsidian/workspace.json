@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/JED/AI.md",
+                "file": "kyb/SVI/PID regulace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "PID regulace"
             }
           }
         ]
@@ -180,8 +180,9 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
-    "kyb/JED/Git.md",
+    "kyb/SVI/Regulační Technika - 2.md",
     "kyb/JED/AI.md",
+    "kyb/JED/Git.md",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
     "README.md",
@@ -190,7 +191,6 @@
     "LIT/realismus/Anglie/Charles Dickens.md",
     "FYZ/molekoule.md",
     "k",
-    "kyb/SVI/Regulační Technika - 2.md",
     "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI/PID regulace.md",
     "kyb/SVI",
