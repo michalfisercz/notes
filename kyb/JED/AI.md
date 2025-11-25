@@ -62,7 +62,8 @@ Rozlišujeme dva základní typy AI:
 - Systém se učí z **dat označených štítky (labely)**.  
 - Trénovací sada obsahuje dvojice **[datový vektor, label]**.  
 - Label udává správné řešení, které systém napodobuje.  
-- Po natrénování systém dostává pouze **data** a na jejich základě **predikuje výsledek**.  
+- Po natrénování systém dostává pouze **data** a na jejich základě **predikuje výsledek**. 
+- lineární regrese
 - **Přesnost modelu** se vyhodnocuje takto:
   1. Data se **promíchají** (aby se odstranila systematická chyba).  
   2. Rozdělí se na **trénovací** a **testovací** sadu (např. 9:1 nebo 8:2).  
@@ -74,8 +75,20 @@ Rozlišujeme dva základní typy AI:
 
 ### 2. Učení bez učitele *(Unsupervised Learning)*  
 *(poznámka: zatím bez rozpracování – zde lze doplnit např. klastry, PCA, apod.)*
+shlukování
 
 ---
 
 ### 3. Učení posilováním *(Reinforcement Learning)*  
-*(poznámka: zatím bez rozpracování – zde lze doplnit princip odměny a trestu, např. Q-learning.)*
+- zpětnovazebné učení
+- Nemáme informaci o jednom datovém bodu zda je správný, ale máme informaci o shluku více datových bodů.
+- Nejdříve musíte něco udělat, a pak se dozvíte zda je to dobré. Metoda pokus omyl. Specifické algoritmy se pouze snaží optimalizovat metody odhadu, abychom k výsledku došli nejrychleji, a výpočetně nejlevněji.
+- příklad: Piškworky. Nedokážeme vyhodnotit, zda je jednotlivý specifický tah správný (není učitel), ale po určité sekvenci tahů, jsme schopni vyhodnotit, zda tato posloupnost tahů vedla k výhře či ne. Tj. zpětnovazebné učení.
+- Učení probíhá pomocí různých algoritmů
+	- např. Genetické algoritmy, kdy simulujeme evoluci datových shluků, když je necháme mezi sebou náhodně křížit, každému datovému shluku přiřazujeme skóre, a v dalších generací křížíme pouze shluky s největším skórem, tj. princip evoluce. 
+	- Touto metodou slepě hledáme řešení, bez znalosti skryté dynamiky systému.
+- Další metody řešení těchto problémů
+	- Dijkstrův algoritmus - řeší problém hledání cesty na specifickém grafu, který vypadá jako mapa čtverečků se začátkem a cílem. Každý čtvereček má svou hodnotu = "cenu", která může např. určovat náročnost cesty daným směrem.
+	- A* algoritmus - Odhaduje. Využívá heurestiku. Např. chess engine, tj. při hledání v grafu odhaduje hodnotu jednotlivých pozic pomocí vzdušných čar. Podobné jako Dijkstrův algoritmus
+- Prohledávání do šířky, do hloubky
+- Mnohé další

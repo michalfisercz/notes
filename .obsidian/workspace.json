@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/SVI/PID regulace.md",
+                "file": "kyb/JED/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PID regulace"
+              "title": "AI"
             }
           }
         ]
@@ -180,21 +180,21 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
-    "kyb/SVI/Regulační Technika - 2.md",
-    "kyb/JED/AI.md",
+    "kyb/JED/Booleova algebra.md",
     "kyb/JED/Git.md",
+    "kyb/JED/Kybernetika.md",
+    "kyb/JED/Shell.md",
+    "kyb/JED/AI.md",
+    "kyb/SVI/PID regulace.md",
+    "kyb/SVI/Regulační Technika - 2.md",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
     "README.md",
-    "kyb/JED/Booleova algebra.md",
-    "kyb/JED/Shell.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
     "FYZ/molekoule.md",
     "k",
     "kyb/SVI/Přechodové jevy.md",
-    "kyb/SVI/PID regulace.md",
     "kyb/SVI",
-    "kyb/JED/Kybernetika.md",
     "kyb/JED",
     "IKT",
     "Images/RegulatorP.png",
