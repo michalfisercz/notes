@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/JED/AI.md",
+                "file": "kyb/SVI/Sekvenční logika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "Sekvenční logika"
             }
           }
         ]
@@ -180,20 +180,22 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
-    "kyb/JED/Booleova algebra.md",
-    "kyb/JED/Git.md",
-    "kyb/JED/Kybernetika.md",
-    "kyb/JED/Shell.md",
-    "kyb/JED/AI.md",
-    "kyb/SVI/PID regulace.md",
+    "kyb/SVI/Čítače.md",
+    "kyb/SVI/Sekvenční logika.md",
     "kyb/SVI/Regulační Technika - 2.md",
+    "kyb/SVI/Přechodové jevy.md",
+    "kyb/SVI/PID regulace.md",
+    "kyb/JED/Shell.md",
+    "kyb/JED/Kybernetika.md",
+    "kyb/JED/Git.md",
+    "kyb/JED/Booleova algebra.md",
+    "kyb/JED/AI.md",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
     "README.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
     "FYZ/molekoule.md",
     "k",
-    "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI",
     "kyb/JED",
     "IKT",
@@ -214,8 +216,6 @@
     "school_notes/kyb/Shell.md",
     "school_notes/kyb/Regulační Technika - 2.md",
     "school_notes/kyb/BOOL algebra.md",
-    "school_notes/kyb/Git.md",
-    "school_notes/kyb/PID.md",
     "kyb",
     "TEF/číslicová elektronika",
     "TEF/veličiny",
