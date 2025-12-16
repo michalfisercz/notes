@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/SVI/Sekvenční logika.md",
+                "file": "kyb/JED/Neuronové sítě.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sekvenční logika"
+              "title": "Neuronové sítě"
             }
           }
         ]
@@ -180,15 +180,22 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
-    "kyb/SVI/Čítače.md",
+    "Images/neuron_model.jpg",
+    "Images/computer_vs_brain.png.~tmp",
+    "kyb/JED/Booleova algebra.md",
+    "kyb/JED/Kybernetika.md",
+    "kyb/JED/Neuronové sítě.md",
+    "Images/computer_vs_brain.png",
+    "computer_vs_brain.png",
+    "ilu.jpg",
+    "Pasted image 20251216093339.png",
     "kyb/SVI/Sekvenční logika.md",
+    "kyb/SVI/Čítače.md",
     "kyb/SVI/Regulační Technika - 2.md",
     "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI/PID regulace.md",
     "kyb/JED/Shell.md",
-    "kyb/JED/Kybernetika.md",
     "kyb/JED/Git.md",
-    "kyb/JED/Booleova algebra.md",
     "kyb/JED/AI.md",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
@@ -214,17 +221,10 @@
     "CH/Terpeny 🌳.md",
     "TEF/polovodiče/FOTODIODA.md",
     "school_notes/kyb/Shell.md",
-    "school_notes/kyb/Regulační Technika - 2.md",
-    "school_notes/kyb/BOOL algebra.md",
     "kyb",
     "TEF/číslicová elektronika",
     "TEF/veličiny",
     "TEF/rezistory",
-    "TEF/polovodiče",
-    "TEF/Kondezátory",
-    "Images/zenerova dioda.png",
-    "Images/Volume centered.svg",
-    "Images/Transistor zapojení.png",
-    "Images/transformátor.png"
+    "TEF/polovodiče"
   ]
 }
