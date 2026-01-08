@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/JED/Neuronové sítě.md",
+                "file": "kyb/SVI/Sekvenční logika.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neuronové sítě"
+              "title": "Sekvenční logika"
             }
           }
         ]
@@ -180,25 +180,27 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
+    "Images/SRlatchD.jpg",
+    "Images/SRlatch.jpg",
+    "kyb/JED/Booleova algebra.md",
+    "kyb/JED/Git.md",
+    "kyb/SVI/Sekvenční logika.md",
+    "IKT/Java.md",
+    "IKT/Algoritmizace.md",
+    "kyb/JED/Neuronové sítě.md",
     "Images/neuron_model.jpg",
     "Images/computer_vs_brain.png.~tmp",
-    "kyb/JED/Booleova algebra.md",
     "kyb/JED/Kybernetika.md",
-    "kyb/JED/Neuronové sítě.md",
     "Images/computer_vs_brain.png",
     "computer_vs_brain.png",
     "ilu.jpg",
     "Pasted image 20251216093339.png",
-    "kyb/SVI/Sekvenční logika.md",
     "kyb/SVI/Čítače.md",
     "kyb/SVI/Regulační Technika - 2.md",
     "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI/PID regulace.md",
     "kyb/JED/Shell.md",
-    "kyb/JED/Git.md",
     "kyb/JED/AI.md",
-    "IKT/Java.md",
-    "IKT/Algoritmizace.md",
     "README.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
     "FYZ/molekoule.md",
@@ -210,8 +212,6 @@
     "Images/regulator_1_odezva.png",
     "Images/regulator_1.png",
     "Images/Karnaugh_example.png",
-    "Images/charakteristika2radu.png",
-    "Images/charakteristika1radu.png",
     "school_notes/IKT/základní algoritmické struktury.md",
     "school_notes/IKT/Zpracování programu v Javě.md",
     "school_notes/IKT/Rozdělení programů v Javě.md",
