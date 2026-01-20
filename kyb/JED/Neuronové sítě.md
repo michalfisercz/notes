@@ -1,3 +1,4 @@
+
 Motivace (mozek vs. počítač)
 - Lidský mozek pracuje jiným způsobem než běžné číslicové počítače
 - Počítače přesně a rychle provádějí posloupnosti instrukcí, které pro ně byly formulovány
@@ -25,4 +26,46 @@ Motivace (mozek vs. počítač)
 	- váhy $w_i$ nabývají +1 nebo -1 = budící nebo tlumící signály
 	-  vstupy a váhy určují práh 
 2) Perceptron
-	- 
+	- Vstupy a váhy nabývají hodnot reálných čísel
+	- excitace - inhibice neporovnáváme s práhem, ale práh odečteme a hodnotu porovnáváme s nulou
+	- Nezkoumáme pouze zaplý/vyplý, ale na hodnotě počítáme obecnou aktivační funkci f(x)
+	- nejčastěji sigmoida $\frac{2}{(1 + e^{-\lambda x})} - 1$  
+	- Bipolární model rozděluje vstupní prostor $\vec{x}$ na dvě části (možnost lineárního rozdělení)
+
+
+### Typy umělých neuronových sítí
+
+- Neuronová síť vzniká spojením jednotlivých neuronů
+- Způsob zapojení neuronové sítě = topologie sítě
+
+<img src=Images/kyb2001.png>
+- Každá vrstva neuronů má svůj vektor vah, tedy pro $k$ vrstev synchronních neuronů se stejnou aktivační funkcí se zavádí matice vah (více sloupců, více vektorů vah)
+- Každá vrstva neuronů má svou aktivační funkci
+- Počet parametrů razantně roste (důsledkem jsou sítě s miliardami a biliony parametrů)
+- Síť lze matematicky zapsat maticovým násobením (matice vah, vektor vstupů, jednotlivé vrstvy neuronů)
+
+ - Rekurentní neuronové sítě (výstupy se používají jako vstupy, existují rovnovážné ustálené polohy)
+
+# Fáze činnosti neuronových sítí
+
+1) Fáze nastavování
+	1) Cílem je nastavit váhy a prahy jednotlivých neuronů sítě s danou topologií, aby síť prováděla požadovanou činnost. (daná topologie = dané: n vstupů/výstupů, zapojení, aktivační funkce)
+	2) Pro specifický úkol je nutno navrhnout síť s vhodnou topologií (počet neuronů, vrstev, etc.) (je to alchymie, topologii pro daný úkol nelze spolehlivě navrhnout = pokus/omyl)
+	3) Větší síť se nutně nerovná lepší síť
+		
+2) Fáze pracovní
+	1) Ve fázi pracovní síť reaguje na přeložené vstupy podle svého předchozího nastavení
+	2) Výpočetně ne moc náročné
+	3) Fáze probíhající při zadání prompt LLM (chatGPT, etc.)
+
+### Možnosti nastavování neuronové sítě
+
+1) Výpočtem
+	1) Pouze u velmi triviálních sítí, lze provést výpočet vah pro získání požadovaného vstupu
+2) Učením 
+	1) Supervised learning
+		1) Existuje trénovací množina dvojic (vstup, požadovaný výstup)
+		2) Zadáme vstup, a hledáme váhy aby výstupem byl požadovaný výstup
+		3) Jde o proces podobný fitování sítě na známá data (=učení)
+	2) Unsupervised learning
+		1) 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kyb/SVI/Sekvenční logika.md",
+                "file": "kyb/JED/Neuronové sítě.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sekvenční logika"
+              "title": "Neuronové sítě"
             }
           }
         ]
@@ -180,11 +180,15 @@
   },
   "active": "a341b1b2a95312f6",
   "lastOpenFiles": [
+    "Images/kyb2001.png",
+    "kyb2001.png",
+    "Pasted image 20260120103607.png",
+    "kyb/JED/AI.md",
+    "kyb/SVI/Sekvenční logika.md",
     "Images/SRlatchD.jpg",
     "Images/SRlatch.jpg",
     "kyb/JED/Booleova algebra.md",
     "kyb/JED/Git.md",
-    "kyb/SVI/Sekvenční logika.md",
     "IKT/Java.md",
     "IKT/Algoritmizace.md",
     "kyb/JED/Neuronové sítě.md",
@@ -200,7 +204,6 @@
     "kyb/SVI/Přechodové jevy.md",
     "kyb/SVI/PID regulace.md",
     "kyb/JED/Shell.md",
-    "kyb/JED/AI.md",
     "README.md",
     "LIT/realismus/Anglie/Charles Dickens.md",
     "FYZ/molekoule.md",
@@ -209,9 +212,6 @@
     "kyb/JED",
     "IKT",
     "Images/RegulatorP.png",
-    "Images/regulator_1_odezva.png",
-    "Images/regulator_1.png",
-    "Images/Karnaugh_example.png",
     "school_notes/IKT/základní algoritmické struktury.md",
     "school_notes/IKT/Zpracování programu v Javě.md",
     "school_notes/IKT/Rozdělení programů v Javě.md",
