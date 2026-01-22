@@ -18,4 +18,13 @@ V případě Kdy vstup (C), tj. (enabled) je nastaveno na hodnotu 1, pak zapojen
 
 Toto zapojení ukládá informaci 1 bit. Pomocí sekvence takových datových buněk lze uložit větší množství dat.
 
-Jak funguje kondenzátor a vstup C?
+Jak funguje kondenzátor a vstup C? (jak funguje derivační článek?)
+
+### Příklad zapojení které sčítá hodnoty
+
+<img src=Images/calculator.jpg>
+
+
+### Paralelní vs. Sériové zapojení registrů.
+
+<img src=Images/registers.jpg>
