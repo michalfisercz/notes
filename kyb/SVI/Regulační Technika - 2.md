@@ -47,7 +47,7 @@ RC low pass může fungovat jako **integrátor**, pokud je **vstupní frekvence 
 Výstupní napětí je **úměrné [[integrálu]] vstupního napětí**:
 
 $$
-u_out \approx \frac{1}{RC} \int u_in dt
+u_{out} \approx \frac{1}{RC} \int u_{in} dt
 $$
 
 Použití např. v **měřicí technice, [[PWM]] filtraci nebo analogových regulátorech**.
