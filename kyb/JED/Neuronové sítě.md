@@ -68,4 +68,17 @@ Motivace (mozek vs. počítač)
 		2) Zadáme vstup, a hledáme váhy aby výstupem byl požadovaný výstup
 		3) Jde o proces podobný fitování sítě na známá data (=učení)
 	2) Unsupervised learning
-		1) 
+		1) Existují pouze data
+		2) Proces shlukování (metoda K-means)
+		3) Rozdělení dat na jednotlivé skupiny
+
+
+
+# Využití neuronových sítí
+
+- Při řešení problémů, kde není znám jednoznačný algoritmus řešení, ale kde existuje dost velká množina příkladů, jejichž řešení známe.
+	- rozpoznávání složitých signálů a obrazců
+	- modelování funkčních závislostí
+	- optimalizační úlohy
+	- rekonstruktory zašuměných dat
+- neuronové sítě nejsou vhodné pro přesné výpočty
