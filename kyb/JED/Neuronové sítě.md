@@ -45,6 +45,7 @@ Motivace (mozek vs. počítač)
 - Síť lze matematicky zapsat maticovým násobením (matice vah, vektor vstupů, jednotlivé vrstvy neuronů)
 
  - Rekurentní neuronové sítě (výstupy se používají jako vstupy, existují rovnovážné ustálené polohy)
+	 - Dokáží zachytit pokračování aktuálního trendu, např. z historie teploty v čase, je schopná podle trendu určit teplotu v budoucím čase
 
 # Fáze činnosti neuronových sítí
 
